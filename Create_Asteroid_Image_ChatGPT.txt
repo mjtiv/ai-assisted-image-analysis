@@ -1,0 +1,3 @@
+Prompt Used for Chatgpt Image:
+
+    "A high-resolution image showcases a variety of asteroids of different sizes floating through deep space, scattered across a star-filled background with a faint, ethereal nebula cast in soft light. The sharp details of the largest, lumpy asteroid in the foreground contrast with the smaller, irregular ones around it, set against the dark expanse where stars twinkle and a gentle nebula adds atmospheric depth."
